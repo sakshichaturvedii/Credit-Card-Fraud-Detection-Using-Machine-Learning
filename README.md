@@ -1,0 +1,3 @@
+# Credit Card Fraud Detection Using Machine Learning
+
+This project focused on detecting fraudulent credit card transactions using machine learning models on an imbalanced dataset. Three models—Logistic Regression, Random Forest, and XGBoost—were evaluated to compare their effectiveness. Logistic Regression showed high overall accuracy but struggled to identify fraud cases accurately. Random Forest improved fraud detection significantly, while XGBoost delivered the best balance of precision and recall, making it the most reliable model for detecting fraud. Feature importance analysis highlighted feature V14 as the strongest indicator of fraud, especially in the XGBoost model, providing better understanding and focus on key predictors.
